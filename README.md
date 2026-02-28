@@ -1,1 +1,0 @@
-# alhikma-hospital-website
