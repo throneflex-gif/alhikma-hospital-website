@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Al-Hikma Hospital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>AL-HIKMA HOSPITAL</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="doctors.html">Doctors</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<section class="hero">
+    <h2>Your Health, Our Priority</h2>
+    <p>Providing quality healthcare services in Abuja.</p>
+</section>
+<footer>
+    <p>© 2026 Al-Hikma Hospital | Created by Throne Flex | All Rights Reserved</p>
+</footer>
+</body>
+</html>
