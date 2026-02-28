@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About - Al-Hikma Hospital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>About Al-Hikma Hospital</h1>
+</header>
+<section>
+    <p>Al-Hikma Hospital is committed to delivering quality medical services with modern facilities and experienced professionals.</p>
+</section>
+<footer>
+    <p>© 2026 Al-Hikma Hospital | Created by Throne Flex</p>
+</footer>
+</body>
+</html>
