@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Services - Al-Hikma Hospital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Our Services</h1>
+</header>
+<ul>
+    <li>Emergency Care</li>
+    <li>Maternity Services</li>
+    <li>Laboratory Services</li>
+    <li>Pharmacy</li>
+    <li>Surgery</li>
+</ul>
+<footer>
+    <p>© 2026 Al-Hikma Hospital | Created by Throne Flex</p>
+</footer>
+</body>
+</html>
